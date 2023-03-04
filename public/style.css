@@ -1,0 +1,41 @@
+.btn{
+    background-color: orangered;
+    color: white;
+}
+.l-email,.l-password{
+    font-size: 20px;
+}
+.title{
+    color:orangered;
+}
+.nav-item{
+    padding: 7px;
+}
+.navbar-nav .nav-item:hover{
+    background-color: gray;
+
+}
+.orange .nav-item .nav-link{
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+}
+.orange{
+    color: orangered;
+}
+.bi{
+    font-size: 20px;
+   color: orangered;
+   padding: 5px;
+}
+@media(max-width: 690px){
+    .orange .nav-item .nav-link{
+        color: orangered;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    .ask{
+        font-size: 13px;
+    }
+}
+
